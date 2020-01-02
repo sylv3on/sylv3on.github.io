@@ -4,6 +4,7 @@ cover: ./test-post-image.jpg
 date: 2020-01-01
 description: This is a test blog post.
 tags: ['post', 'pentesting', 'web exploitation']
+draft: true
 ---
 
 This is an example blog post. All your blog posts should be here: `content/posts`.
