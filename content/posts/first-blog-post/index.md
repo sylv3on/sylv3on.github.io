@@ -4,6 +4,8 @@ cover: ./image.jpg
 date: 2019-01-01
 description: Year in review
 tags: ["blog", "2019", "infosec"]
+draft: true
+hidden: true
 ---
 
 2019 was an interesting year. While I had a lot of hurdles, I am grateful for everything that happened this past year. I made a goal to make a blog before January 1, 2020 and while as I am writing this is now January 1... yes, I am a bit late, but I did it. I decided that for my blog this would be a perfect first post. Talk a bit about how my year went but the positive things in it. A lot of good changes happened, and I would love to talk about them in this blog post.
@@ -12,18 +14,19 @@ tags: ["blog", "2019", "infosec"]
 
 In March 2019, I had the opportunity to attend the WiCS Conference thanks to a scholarship WiCs provided to me. The WiCS Conference was the first ever big security conference I have been to. When I attended that conference, I didn’t know much about the field and when I was in the conference, I took time to attend workshops, network and ask a lot of questions. Having the opportunity to spend some days with other women who are interested in the same stuff as I was amazing. Seeing many amazing powerful women in last year’s conference made me strive to become one of them. I started studying more and involving myself more in the community. After attending that event I decided I wanted to be more involved in the security field, so I decided to create a twitter account. I started meeting more people who were part of the cyber security field and I got more immersed in that community. Ever since I did some things, I am proud of. One of the things was making a meetup for women who were attending Defcon. I contacted one of the party organizers from Defcon and told him how I was interested in making an event or a meetup for women who were attending the conference that week. As time passed, we changed the name of the activity to Ladies of Defcon meetup. The event was a success. In addition to the meetup I decided to make a discord server for the women who were attending all the security conferences that week. My goal for that discord was too make ladies get to know each other and have someone to be with when they attended Defcon. I learned that a lot of women travel alone, and I thought it would be more secure for them to get to know other women who were also attending. By the time Defcon came around we had around 150 members in the discord server which is called WAN PARTY. WAN stands for Women and Non-Binary. The community kept growing and it was successful.
 People I want to thank for helping me with the success of WAN Party and Ladies at Defcon party:
-@CircuitSwan
-@cyberlass
-@nemessisc
-@akolsuoicauqol
+- [@CircuitSwan](https://twitter.com/CircuitSwan)
+- [@cyberlass](https://twitter.com/cyberlass)
+- [@nemessisc](https://twitter.com/nemessisc)
+- [@akolsuoicauqol](https://twitter.com/akolsuoicauqol)
 
 <h3>My first internship
 
 This past summer I did my first internship which was a REU. I had the chance to do the Research Experience for Undergraduates program in Security and Privacy for Mobile Sensing and the Internet of Things at CSU. That internship was an amazing experience in so many ways. I had the opportunity to spend my summer at CSU and perform a research project. The topic of my research project was Continuous Mobile User Authentication. In this research our main goal was to observe the battery use of Continuous Authentication using Coaunthentication. The protocol that was used is a symmetric key protocol that uses AES encryption, challenge nonce, and updated keys with each run. With each transmission and forwarding of messages in the protocol, the Authenticator is able to verify that messages are being sent and received by the authorized Requestor and Collaborator because they can only be decrypted by keys they are meant to hold, the Requestor’s key being the one that is updated with each run of the protocol. Some other cool stuff I did in that research were:
-• Perform experiment with other apps running to acquire data representative of everyday user.
-• Perform experiment with same controls and acquire Collaborator data.
-• Solve watch Wi-Fi connectivity issue to acquire data from running app on watch.
-• Perform experiment with devices connected to mobile network instead of Wi-Fi to evaluate battery usage.
+- Perform experiment with other apps running to acquire data representative of everyday user.
+- Perform experiment with same controls and acquire Collaborator data.
+- Solve watch Wi-Fi connectivity issue to acquire data from running app on watch.
+- Perform experiment with devices connected to mobile network instead of Wi-Fi to evaluate battery usage.
+
 The project was super interesting because I got to use a lot of Java and Android Studio. Two things I haven’t used much, and I got to learn a lot of new stuff related to Android development and mobile sensing. As of now we are waiting for an answer to see if we can get the research paper, we wrote published.
 
 <h3>Hacker Summer Camp
