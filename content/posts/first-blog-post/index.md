@@ -5,7 +5,7 @@ date: 2019-01-01
 description: This is a description
 tags: ["blog", "2019", "infosec"]
 draft: true
-hide: true
+hide: false
 ---
 
 2019 was an interesting year. While I had a lot of hurdles, I am grateful for everything that happened this past year. I made a goal to make a blog before January 1, 2020 and while as I am writing this is now January 1... yes, I am a bit late, but I did it. I decided that for my blog this would be a perfect first post. Talk a bit about how my year went but the positive things in it. A lot of good changes happened, and I would love to talk about them in this blog post.
