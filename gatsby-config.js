@@ -3,14 +3,14 @@ module.exports = {
     siteTitle: 'Ashley Ruiz | Portfolio',
     siteDescription: 'InfoSec Blog',
     siteImage: '/banner.png', // main image of the site for metadata
-    siteUrl: 'https://sylv3on.github.io/',
+    siteUrl: 'https://sylv3on.com/',
     pathPrefix: '/',
     siteLanguage: 'en',
     ogLanguage: `en_US`,
     author: 'Ashley Ruiz',
     authorDescription: 'Computer Engineering student in InfoSec with an interest in Offensive Security',
     avatar: '/avatar.jpg',
-    twitterSite: '',
+    twitterSite: 'https://twitter.com/sylv3on_',
     twitterCreator: 'Ashley Ruiz',
     social: [
       {
