@@ -14,7 +14,7 @@ When I first started getting interested at security stuff, I only knew the basic
 
 
 
-#### How everything started
+# How everything started
 
 
 There was this mini conference that was held every year in the island in which they talked about security and brought some people who worked in the field. I decided that I wanted to go that year back in 2016 or 2017 I think it was. When I was there, I noticed one of the speakers was a professor that taught classes at the Engineering School I went to. I learned that he has done a lot of research regarding cybersecurity and that he even gave some elective classes like Network Security or Computer Security. I will get back to this soon.
@@ -34,7 +34,7 @@ I have written a lot, but I just wanted to give a small background of how I star
 
 
 
-###### My personal guide for infosec newbies
+# My personal guide for infosec newbies
 
 
 
