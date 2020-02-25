@@ -32,7 +32,11 @@ As time passed, I made a twitter account, applied for scholarships and engaged w
 
 I have written a lot, but I just wanted to give a small background of how I started. Now I will give my personal advice for students who want to get into cyber security/ infosec and are new or don't know anything yet.
 
+
+
+
 **My personal guide for infosec newbies**
+
 
 
 
