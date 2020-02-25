@@ -7,7 +7,7 @@ tags: ['guide']
 ---
 
 
-**How I joined the infosec world and advice for students that want to get into infosec and don't know where to start**
+### How I joined the infosec world and advice for students that want to get into infosec and don't know where to start
 
 I decided to write this blog post because almost daily I receive messages on Twitter of people asking me how to get into infosec. Here I will write my experience on how I "joined" the field and how I got all my knowledge. Which is still growing, and I have a lot more to learn. These tips won't contain any technical stuff they are just my personal advice that I would give to someone that wants to start and don't know where to start.
 
@@ -16,7 +16,7 @@ When I first started getting interested at security stuff, I only knew the basic
 
 
 
-**How everything started**
+### How everything started
 
 There was this mini conference that was held every year in the island in which they talked about security and brought some people who worked in the field. I decided that I wanted to go that year back in 2016 or 2017 I think it was. When I was there, I noticed one of the speakers was a professor that taught classes at the Engineering School I went to. I learned that he has done a lot of research regarding cybersecurity and that he even gave some elective classes like Network Security or Computer Security. I will get back to this soon.
 
@@ -35,13 +35,13 @@ I have written a lot, but I just wanted to give a small background of how I star
 
 
 
-**My personal guide for infosec newbies**
+### My personal guide for infosec newbies
 
 
 
 
 
-**1)Don't be afraid to ask people for help**
+## 1)Don't be afraid to ask people for help
 
 Never be afraid to ask someone for help. Most people are willing to help others. I am here now thanks to all of those who were nice to me and helped me whenever I asked for help. There will always be people who don't like helping others or just don't care but those are the ones you avoid, and you go to someone else.
 
@@ -51,7 +51,7 @@ Of course, there is something a lot of people say which is to not ask stupid que
 
 
 
-**2)Go for it!**
+## 2)Go for it!
 
 If there's anything in your mind that you want to do but are scared. Just go for it. I know it sounds cliché and it's something you hear everywhere but it really works.  
 
@@ -59,37 +59,37 @@ A few years ago, I went through a really hard time where I almost quit school. I
 
 
 
-**3) Don't compare yourself with ANYONE**
+## 3) Don't compare yourself with ANYONE
 
  Everyone has their own journey. Everyone takes a different amount of time to complete things. If you have people close to you that are "more ahead' in life, that doesn't mean that you suck or you are less that only means that you need to start improving yourself and work hard to get where you want to go. All my life I would compare myself to other people even for stupid reasons and I noticed how badly that affected me. Those same feelings sometimes even block you from doing stuff and advancing on what you want to do.
  
  
 
-**4)Don't pay attention to what other people tell you**
+## 4)Don't pay attention to what other people tell you
 
 Many times, people tend be negative and say stupid stuff like "Oh its too late" "Oh that's difficult", "You can't do that", etc. A lot of that stuff like that tends to sometimes get into our brain and we unconsciously start thinking those negative thoughts. That happens when you pay attention to what the other person said. Whenever someone comes with a saying like that you should just ignore it and shake it off. The only person that decides if you can do it or not is YOU. You are the one that controls your actions and thoughts. During this journey various people have told me negative stuff about my future. I had a professor say to me that I couldn't finish my computer degree because I was failing Data Structures. That semester I was going through some stuff and didn't have time or just didn't feel like studying. I always thought negatively about myself and told myself that I was never going to learn this and a lot of other stupid thoughts. Obviously thinking that stuff wasn't helping and after the professor told me that I didn't even try I just dropped the class. Whenever a situation like that happens you are not going to give up you are going to show that person that they are wrong, and you can do it. I didn't do that back then I just gave up and repeated the class the next semester. Whenever I think about that incident, I always get mad at myself for not proving him wrong but sadly one can't change the past. After some time passed, I aced the class and was proud of myself because I knew I could do it. That second time I started the course with a positive mind and my head straight knowing how I was going to handle it.
 
 
-**5)APPLY, APPLY AND APPLY**
+## 5)APPLY, APPLY AND APPLY
 
  So, there's this internship or scholarship you have been eyeing for a while and you say to yourself that its impossible for you to get that scholarship or internship for whatever reason. An advice I love to give is to apply to everything you can (obviously if you have the requirements). Don't be scared to apply for something and say its not worth it because you won't get it. I have proven myself wrong a lot of times. I remember crying telling my partner that I wasn't good enough and that I didn't know why I even applied. He always told me that why was I crying because the worse thing that can happen is, they say no to you. The world is not going to end soon (I think) and there are many other things you can apply for. He was also very supportive and always told me I would get it and I would say to stop being so positive, many times he was right, and I got accepted to what I was applying at that moment. A thing I would for you to do right now is to go in the internet and search for opportunities related to what you are interested in. You never know what you will find and if there's something that you like and have the requirements remember to APPLY no matter what.
 
-**6)Research**
+## 6)Research
 
 I would say this is one of the most important tips. Something I like about the internet is how amazing it can be for looking up resources and new stuff to learn. There are so many things out there. There are courses (free or you must pay), videos, books and sometimes even classes that they post the lectures online. Whenever you have free time look for that thing you want to learn obviously everything requires something that you must know first like if you were solving a coding challenge then obviously you need to learn how to code first. You need to start from the beginning and learn that stuff in order to learn what you really want to learn. Everyone that is good at something I are good because they spent many hours reading and practicing. Go ahead and start doing the same thing.
 
 
-**7)Join Communities**
+## 7)Join Communities
 
  This is my favorite one because I love engaging in communities and learn new things from others. I remember not knowing anything at all about CTFs and I decided to join a slack called CTF Circle. That slack was amazing for me because I would compete in CTFs with other women/non-binary folks not even knowing what I was doing but I would ask them questions and ask them how they did it. There are communities out there for everything you can imagine. You just search for it on the internet and start exploring. You can also ask people to see if they know any communities you can be part of. Not just online, there are also communities who reunite from time to time and talk about certain topics in person. Explore and join different communities. There will always be ones that you wont like but it's trial and error until you find the right community or communities for you.
  
 
-**My next blog post will be on resources and communities help you get started. I will announce it on my twitter when I post it.**
+## My next blog post will be on resources and communities help you get started. I will announce it on my twitter when I post it.
 
 
 
 
-**8) Attend Conferences or events related to what you want to learn**
+## 8) Attend Conferences or events related to what you want to learn
 
  Attending a conference is amazing because there you will see different type of people those who know a lot, those who think they a lot and those who are new in this journey just like you. While attending the conference go and talk to other people. Engage. Talking to other people is a great way to learn and to meet other people in the community. Making connections and networking is important because that way you will have people you can ask stuff to or just have connections which can be used later when job hunting. Attend workshops in the conferences and when the workshop ends if there's time to talk to the people that gave it go ahead and do it. Don't be afraid to do it because they were in your position once. Everyone has been there. You are not born good at something. You must practice and work hard to be good at something. Conferences have been great for me because every time I go to one, I learned a lot of new things and met new people. Some of those people can even turn out to be your friend. I have friends that I made in conferences and we help each other out whenever we can which is super beneficial. 
 
@@ -97,4 +97,4 @@ Those are my tips on how to get started. Most of them you have heard before or s
 
 *Disclaimer: English is not my first language, so I apologize if there any grammar mistakes.*
 
-**Thanks for reading! ^.^**
+### Thanks for reading! ^.^
