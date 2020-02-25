@@ -16,6 +16,7 @@ When I first started getting interested at security stuff, I only knew the basic
 
 #### How everything started
 
+
 There was this mini conference that was held every year in the island in which they talked about security and brought some people who worked in the field. I decided that I wanted to go that year back in 2016 or 2017 I think it was. When I was there, I noticed one of the speakers was a professor that taught classes at the Engineering School I went to. I learned that he has done a lot of research regarding cybersecurity and that he even gave some elective classes like Network Security or Computer Security. I will get back to this soon.
 
 As time passed, I was looking online at stuff and I found an organization called Women in Cybersecurity (WiCys). I went to their website and I found that they did a conference every year for women who want to get into cybersecurity or are already in that field. When I saw that I was like I would love to go there. Fast forward to 2018, I applied to that year's conference and as time passed to my surprise, I got a scholarship to attend the conference in Chicago. I went there and it was super overwhelming at first because there were workshops, talks, career fair, socials and a lot of stuff. Me not being in the field and knowing pretty much nothing I didn't even know where to even start. I decided to go to some talks and a few workshops. On the technical workshops I failed miserably (or maybe I am exaggerating) all I know is that I went to one where I couldn't even do the first part. I was so overwhelmed that I grabbed my laptop put in my backpack and left the room. That right there was my first mistake. Why? Because I should have stayed and ask the people around me or the instructors who were willing to help us. I was embarrassed and didn't want to tell anyone that I didn't understand it. I felt stupid and thought people would be thinking why I was even there or stuff like that. That is one of the various mistakes I did that I wish I could go back and slap myself and be like don't be stupid.
@@ -33,7 +34,7 @@ I have written a lot, but I just wanted to give a small background of how I star
 
 
 
-### My personal guide for infosec newbies
+#### My personal guide for infosec newbies
 
 
 
@@ -86,7 +87,7 @@ I would say this is one of the most important tips. Something I like about the i
  This is my favorite one because I love engaging in communities and learn new things from others. I remember not knowing anything at all about CTFs and I decided to join a slack called CTF Circle. That slack was amazing for me because I would compete in CTFs with other women/non-binary folks not even knowing what I was doing but I would ask them questions and ask them how they did it. There are communities out there for everything you can imagine. You just search for it on the internet and start exploring. You can also ask people to see if they know any communities you can be part of. Not just online, there are also communities who reunite from time to time and talk about certain topics in person. Explore and join different communities. There will always be ones that you wont like but it's trial and error until you find the right community or communities for you.
  
 
-## My next blog post will be on resources and communities help you get started. I will announce it on my twitter when I post it.
+## My next blog post will be on resources and communities to help you get started. I will announce it on my twitter when I post it.
 
 
 
