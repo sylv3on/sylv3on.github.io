@@ -104,7 +104,7 @@ I would say this is one of the most important tips. Something I like about the i
  This is my favorite one because I love engaging in communities and learn new things from others. I remember not knowing anything at all about CTFs and I decided to join a slack called CTF Circle. That slack was amazing for me because I would compete in CTFs with other women/non-binary folks not even knowing what I was doing but I would ask them questions and ask them how they did it. There are communities out there for everything you can imagine. You just search for it on the internet and start exploring. You can also ask people to see if they know any communities you can be part of. Not just online, there are also communities who reunite from time to time and talk about certain topics in person. Explore and join different communities. There will always be ones that you wont like but it's trial and error until you find the right community or communities for you.
  
 
-**My next blog post will be on resources and communities to help you get started. I will announce it on my twitter when I post it.
+**My next blog post will be on resources and communities to help you get started. I will announce it on my twitter when I post it.**
 
 
 
