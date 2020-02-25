@@ -7,8 +7,6 @@ tags: ['guide']
 ---
 
 
-### How I joined the infosec world and advice for students that want to get into infosec and don't know where to start
-
 I decided to write this blog post because almost daily I receive messages on Twitter of people asking me how to get into infosec. Here I will write my experience on how I "joined" the field and how I got all my knowledge. Which is still growing, and I have a lot more to learn. These tips won't contain any technical stuff they are just my personal advice that I would give to someone that wants to start and don't know where to start.
 
 When I first started getting interested at security stuff, I only knew the basics. I literally didn't know anything besides the stuff you get taught at your Computer Engineering /Computer Science degree. The only security related thing I did was in my Telecommunications class in which we talked a bit about Network Security.
@@ -36,6 +34,10 @@ I have written a lot, but I just wanted to give a small background of how I star
 
 
 ### My personal guide for infosec newbies
+
+
+
+
 
 
 
