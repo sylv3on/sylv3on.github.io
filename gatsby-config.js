@@ -18,8 +18,8 @@ module.exports = {
         url: `https://twitter.com/sylv3on_`
       },
       {
-        icon: `github`,
-        url: ``
+        icon: `paypal`,
+        url: `https://www.paypal.com/paypalme2/aruiz242`
       },
       {
         icon: `linkedin-in`,
