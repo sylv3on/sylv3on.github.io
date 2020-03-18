@@ -23,7 +23,7 @@ module.exports = {
          },
          {
         icon: `github`,
-        url: ``
+        url: `https://github.com/sylv3on`
       },
       {
         icon: `linkedin-in`,
