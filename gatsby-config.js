@@ -20,6 +20,10 @@ module.exports = {
       {
         icon: `paypal`,
         url: `https://www.paypal.com/paypalme2/aruiz242`
+         },
+         {
+        icon: `github`,
+        url: ``
       },
       {
         icon: `linkedin-in`,
