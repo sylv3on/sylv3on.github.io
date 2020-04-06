@@ -58,7 +58,7 @@ I also wanted to share my favorite Slacks and those that I have been a part of f
 <br/>
 <br/>
 
-#  WomenHackerz
+##  WomenHackerz
 
 <br/>
 <br/>
@@ -68,7 +68,7 @@ I also wanted to share my favorite Slacks and those that I have been a part of f
 
 <br/>
 
-# CTF Circle
+## CTF Circle
 <br/>
 <br/>
 
