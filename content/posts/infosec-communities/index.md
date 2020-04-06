@@ -1,5 +1,5 @@
 ---
-title: **Infosec Online Communities**
+title: Infosec Online Communities
 cover: ./image.jpg
 date: 2020-06-04
 description: My recommendation of some online infosec communities you can join
