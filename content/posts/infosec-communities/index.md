@@ -79,7 +79,9 @@ CTF Circle is a distributed CTF team for non-binary folks and women of all skill
 <br/>
 <br/>
 <br/>
+
 # Discord Servers
+
 <br/>
 <br/>
 <br/>
@@ -89,7 +91,9 @@ So, of all the platforms I use to be part of communities, I would say Discord is
 <br/>
 <br/>
 <br/>
+
 ## The Cyber Mentor Server
+
 <br/>
 <br/>
 <br/>
@@ -100,7 +104,9 @@ I am going to start with my favorite one which is [The Cyber Mentor](https://www
 <br/>
 <br/>
 <br/>
+
 ## DeadPixelSec
+
 <br/>
 <br/>
 <br/>
@@ -113,7 +119,9 @@ The other discord server I want to highlight is the [DeadPixelSec](https://deadp
 <br/>
 <br/>
 <br/>
+
 ## GateBreachers
+
 <br/>
 <br/>
 <br/>
@@ -125,7 +133,9 @@ The other discord server I want to highlight is the [DeadPixelSec](https://deadp
 <br/>
 <br/>
 <br/>
+
 ## InfosecPrep
+
 <br/>
 <br/>
 <br/>
@@ -137,7 +147,9 @@ Another discord server I was recommended when I asked people for their favorite 
 <br/>
 <br/>
 <br/>
+
 ## HackerSpoit
+
 <br/>
 <br/>
 <br/>
@@ -149,10 +161,13 @@ Another discord server I was recommended when I asked people for their favorite 
 <br/>
 <br/>
 <br/>
+
 ## InfosecJobs
+
 <br/>
 <br/>
 <br/>
+
 The InfosecJobs server was created to help people connect to their next job opportunity. This server is great if you are looking for jobs, need help for your next interview or tips for creating a nice resume. Besides that, there is the chat channel which is a general talk to about anything and there is also a music channel which is nice. This server is managed by: [@find_evil](https://twitter.com/find_evil) and [@0xbanana](https://twitter.com/0xbanana). They also have a twitter page that you can follow if you’d like @hackingjobs.
 
 **The link to join this server is the [following](http://chat.infosecjobs.xyz)** 
@@ -164,17 +179,22 @@ The InfosecJobs server was created to help people connect to their next job oppo
 <br/>
 <br/>
 <br/>
+
 ## The Many Hats Club
+
 <br/>
 <br/>
 <br/>
+
 [The Many Hats Club](https://themanyhats.club/) is an information security focused group of individuals from all walks of life. They created a discord serve that has been available for some time and it’s the favorite infosec discord server of a lot of people inside the industry. The best thing about this discord server is that it has so many channels. It has channels for pretty much everything. Channels for every infosec subject you can imagine, it has some social channels in which you can talk to others there about different subjects, voice channels if you want to talk to people by voice. They are also doing some streams that you can check out. That community is also well known to be one of the best in CTF competitions so if you want to be around people that know a lot and can help you enforce your skills that is the perfect server for you to join. Their twitter account is [@TheManyHatsClub](https://twitter.com/themanyhatsclub)
 
 **The link to join this server is the** [**following**](https://discord.gg/infosec)
 <br/>
 <br/>
 <br/>
+
 ## HackerOne
+
 <br/>
 <br/>
 <br/>
@@ -188,17 +208,19 @@ One important thing I want to say is that if you decided to join any of those di
 <br/>
 <br/>
 <br/>
+
 # <div align="center"> Subreddits</div>
 <br/>
 <br/>
 <br/>
+
 Reddit is a network of communities (which are called subreddits) based on people's interests. When it comes to subreddits there are a few infosec subreddits that people have recommended me, so I wanted to list them here.
 
-**/r/netsec**
+/r/netsec
 
-**/r/sysadmin**
+/r/sysadmin
 
-**/r/cybersecurity**
+/r/cybersecurity
 
 There are also some subreddits for the security certifications
 
@@ -235,37 +257,47 @@ Those are the subreddits that I have found for now, if there is any subreddit th
 <br/>
 <br/>
 <br/>
+
 # Forums
+
 <br/>
 <br/>
 <br/>
+
 When it comes to forums, I don’t know much forums about infosec. I know there are a lot out there, but I will only recommend those that I have been a part of and are good in my opinion.
+
 <br/>
 <br/>
 <br/>
+
 ## NetSec Focus
+
 <br/>
 <br/>
 <br/>
+
 Like it says in the webpage, the Net Sec Focus community was created for Cybersecurity / IT professionals to share knowledge and experiences. I like this forum a lot because it has so many cool channels. They have channels for infosec stuff like Red Teaming, RE & Exploit Dev, HTB and some others. Besides having those channels which are focused on those topics they have channels for events, one for jobs, education and programming. I feel like this forum has almost everything you would like in an infosec server. Like always remember to follow the rules stated before you enter the forum.
 
 The website is the [following](https://mm.netsecfocus.com/join/)
 <br/>
 <br/>
 <br/>
+
 ## 0x00sec
+
 <br/>
 <br/>
 <br/>
+
 This forum I would say is almost the same as the last one I mentioned when it comes to the content and is one of my favorites too. The difference of this forum is that this forum is by posts people make or the people who manage the website make too. There are different types of posts, but they are marked with a color which specifies what category the post belongs to. Some of the categories on that forum are Linux, CTF, Malware, Bug Bounty, Web Hacking and much more. The posts on this forum are sometimes questions people ask, announcements or someone making a guide on something for others to learn. The people who manage this forum are also cool so if you want to engage in a community with that format check out 0x00sec.
 
 **The website is the [following](https://0x00sec.org/)**
 
 
-#
 <br/>
 <br/>
 <br/>
+
 For now, that concludes my list of some nice online communities you can join. Of course, there are more out there but these are the ones that I have used the most and was recommended. I am open to suggestions and will be updating this blog post with the new online communities I find. As always, thank you for checking out the blog post and reading it (even if you read half of it)
 
 I hope you enjoyed my post and if you have any suggestions on what I should write next feel free to let me know on my Twitter ^.^
