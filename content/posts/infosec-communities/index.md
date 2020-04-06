@@ -43,17 +43,17 @@ I also wanted to share my favorite Slacks and those that I have been a part of f
 
 CTF Circle is a distributed CTF team for non-binary folks and women of all skill levels to pwn and learn together but also has channels for different type of stuff besides CTFs. This Slack is awesome for finding people willing to participate in CTFs with you. CTF Circle was the first Slack I ever joined. I learned so much and the people there are such a delight. This Slack was created by [@IanColdwater](https://twitter.com/IanColdwater) and [@TinkerFairy](https://twitter.com/TinkerFairy_Net). If you would like to join that Slack be sure to check out their twitter page [@CTF_Circle](https://twitter.com/ctf_circle?lang=en) and send them a message for an invitation.
 
-# Discord Servers
+# <div align="center"> Discord Servers</div>
 
 So, of all the platforms I use to be part of communities, I would say Discord is my favorite one. I like Discord because of the way the servers can be organized, the custom emojis one can use and it has a lot of cool features. There are so many Discord servers and I will list some of my favorite ones here. As time passes if there are any new ones I find, I will add them as well.
 
-## The Cyber Mentor Server
+## <div align="center"> The Cyber Mentor Server</div>
 
 I am going to start with my favorite one which is [The Cyber Mentor](https://www.thecybermentor.com/) discord server. The Cyber Mentor server is well organized and has channels for pretty much almost every infosec subject. Besides that, there are channels related to the tutorials he gives on his YouTube channel, sometimes Twitch streams. When I first started getting into infosec and searched for a YouTube channel related to that stuff, the first channel I found was thecybermentor and ever since then he has been one of my favorite infosec youtubers. He is such a great teacher and offers a variety of tutorials on his YouTube channel. Besides the channels related to the courses he offers and the infosec channels there are channels for socializing such as a meme channel, gaming channel and even a pet picture channel which is cute. There is also a section which is for resources such as career advice, resume advice, job postings and several other stuff which are super helpful. Make sure to follow [@thecybermentor](https://twitter.com/thecybermentor) on Twitter so you can see every update related to his YouTube channel or his Twitch streams.
 
 **The link to join that discord server is the** [**following**](https://discordapp.com/invite/REfpPJB)
 
-## DeadPixelSec
+## <div align="center"> DeadPixelSec</div>
 
 The other discord server I want to highlight is the [DeadPixelSec](https://deadpixelsec.com/) server. On their website, the whoweare section states that the community was developed around the server [The Blind Hacker](https://twitter.com/TheBlindHacker?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) had and they created what is now DeadPixelSec. It began as a CTF team on discord that has grown into a full collaborative community good for sharing experiences, knowledge, and resources to help everyone learn and be the best they can be. This discord recently just started growing and it has such a nice community. The people there from the experience I’ve had are nice and helpful. This server is not only good to start getting to know the community more but also is nice for those who are starting and need help or want advice. They have a nice section called “Growth” in which they have channels for questions related to certain topics like certifications, jobs, red teaming and blue teaming. Besides those areas, there are a lot of voice channels in which you can socialize and talk to other people. There is also the general chat which is a little bit of everything. Also be sure to stop by the #[DianaIniciative](https://www.dianainitiative.org/) channel and check out the streams they are doing and the fundraisers. It’s a nice way to support them and the amazing things they are doing. The twitter account for that community is [@deadpixelsec](https://twitter.com/deadpixelsec) on Twitter
 
