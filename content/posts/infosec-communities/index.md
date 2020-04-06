@@ -21,10 +21,7 @@ As I keep learning of more or get recommended more, I will be adding them to the
 <br/>
 <br/>
 
-#  **Slack Channels**
-
-<br/>
-
+# **Slack Channels**
 There are different types of Slack channels. Some are more general, and others are more focused on a certain topic. There are also ones who are focused on certain type of people for example there are Slacks that are focused on women, veterans, etc.
 
 <br/>
