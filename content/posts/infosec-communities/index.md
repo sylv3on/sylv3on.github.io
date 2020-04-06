@@ -13,7 +13,7 @@ tags: ["guide", "commmunities", "infosec"]
 
 One of the things I love the most of the infosec field is the communities. The communities were the ones that helped me get where I am today. One learns so much by interacting with different types of people and their different backgrounds. You can interact with people in many ways. Not always one has the resources to travel to a conference or attend a meetup. In that case, the best way to interact with the community is online. There are a lot of different types of communities online.
 
-#
+
 
 The first place I started interacting with people in the infosec field was on Twitter. I created an account and just started following people I found interesting or had the same interests as me. As time passed, I started asking people about the field and interacting with them. As of now, I have friends all over the world and have made some good connections.
 
@@ -23,7 +23,7 @@ I will be listing them by categories. Slack Channels, Discord Servers, Subreddit
 
 As I keep learning of more or get recommended more, I will be adding them to the list.
 
-#
+
 
 <br/>
 <br/>
@@ -55,7 +55,7 @@ While I haven’t been part of those Slack communities (only the OWASP one). The
 
 I also wanted to share my favorite Slacks and those that I have been a part of for a long time.
 
-#
+
 <br/>
 <br/>
 <br/>
@@ -65,17 +65,17 @@ I also wanted to share my favorite Slacks and those that I have been a part of f
 <br/>
 [WomenHackerz](https://www.womenhackerz.com/) is such a nice Slack because it’s not only about hacking. They have channels for lots of stuff like career advice, study groups, conferences, CTFs, food and even their own Book Club which is awesome in my opinion (since I am a bookaholic). This slack was created by [@ChloeMessdaghi](https://twitter.com/ChloeMessdaghi?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) and if you would like an invitation to the server feel free to send a DM to the [@WomenHackerz](https://twitter.com/womenhackerz?lang=en) twitter account.
 
-#
+
 <br/>
 <br/>
 <br/>
-#  **CTF Circle**
+# **CTF Circle**
 <br/>
 <br/>
 <br/>
 CTF Circle is a distributed CTF team for non-binary folks and women of all skill levels to pwn and learn together but also has channels for different type of stuff besides CTFs. This Slack is awesome for finding people willing to participate in CTFs with you. CTF Circle was the first Slack I ever joined. I learned so much and the people there are such a delight. This Slack was created by [@IanColdwater](https://twitter.com/IanColdwater) and [@TinkerFairy](https://twitter.com/TinkerFairy_Net). If you would like to join that Slack be sure to check out their twitter page [@CTF_Circle](https://twitter.com/ctf_circle?lang=en) and send them a message for an invitation.
 
-#
+
 <br/>
 <br/>
 <br/>
@@ -85,7 +85,7 @@ CTF Circle is a distributed CTF team for non-binary folks and women of all skill
 <br/>
 So, of all the platforms I use to be part of communities, I would say Discord is my favorite one. I like Discord because of the way the servers can be organized, the custom emojis one can use and it has a lot of cool features. There are so many Discord servers and I will list some of my favorite ones here. As time passes if there are any new ones I find, I will add them as well.
 
-#
+
 <br/>
 <br/>
 <br/>
@@ -97,7 +97,6 @@ I am going to start with my favorite one which is [The Cyber Mentor](https://www
 
 **The link to join that discord server is the** [**following**](https://discordapp.com/invite/REfpPJB)
 
-#
 <br/>
 <br/>
 <br/>
@@ -107,12 +106,10 @@ I am going to start with my favorite one which is [The Cyber Mentor](https://www
 <br/>
 The other discord server I want to highlight is the [DeadPixelSec](https://deadpixelsec.com/) server. On their website, the whoweare section states that the community was developed around the server [The Blind Hacker](https://twitter.com/TheBlindHacker?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) had and they created what is now DeadPixelSec. It began as a CTF team on discord that has grown into a full collaborative community good for sharing experiences, knowledge, and resources to help everyone learn and be the best they can be. This discord recently just started growing and it has such a nice community. The people there from the experience I’ve had are nice and helpful. This server is not only good to start getting to know the community more but also is nice for those who are starting and need help or want advice. They have a nice section called “Growth” in which they have channels for questions related to certain topics like certifications, jobs, red teaming and blue teaming. Besides those areas, there are a lot of voice channels in which you can socialize and talk to other people. There is also the general chat which is a little bit of everything. Also be sure to stop by the #[DianaIniciative](https://www.dianainitiative.org/) channel and check out the streams they are doing and the fundraisers. It’s a nice way to support them and the amazing things they are doing. The twitter account for that community is [@deadpixelsec](https://twitter.com/deadpixelsec) on Twitter
 
-#
 
 
 **The link to join the server is the [following](https://discord.gg/4BpgyS)**
-
-# 
+ 
 <br/>
 <br/>
 <br/>
@@ -140,7 +137,7 @@ Another discord server I was recommended when I asked people for their favorite 
 <br/>
 <br/>
 <br/>
-## <div align="center"> HackerSpoit</div>
+## HackerSpoit
 <br/>
 <br/>
 <br/>
@@ -177,7 +174,7 @@ The InfosecJobs server was created to help people connect to their next job oppo
 <br/>
 <br/>
 <br/>
-## HackerOne</div>
+## HackerOne
 <br/>
 <br/>
 <br/>
