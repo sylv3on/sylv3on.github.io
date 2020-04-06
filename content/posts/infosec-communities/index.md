@@ -51,7 +51,7 @@ I also wanted to share my favorite Slacks and those that I have been a part of f
 <br/>
 
 ##  WomenHackerz
-
+![WomenHackerz Logo](whimage.png "WomenHackerz Logo")
 <br/>
 
 [WomenHackerz](https://www.womenhackerz.com/) is such a nice Slack because it’s not only about hacking. They have channels for lots of stuff like career advice, study groups, conferences, CTFs, food and even their own Book Club which is awesome in my opinion (since I am a bookaholic). This slack was created by [@ChloeMessdaghi](https://twitter.com/ChloeMessdaghi?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) and if you would like an invitation to the server feel free to send a DM to the [@WomenHackerz](https://twitter.com/womenhackerz?lang=en) twitter account.
