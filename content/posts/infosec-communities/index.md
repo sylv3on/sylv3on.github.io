@@ -168,9 +168,10 @@ The website is the [following](https://mm.netsecfocus.com/join/)
 This forum I would say is almost the same as the last one I mentioned when it comes to the content and is one of my favorites too. The difference of this forum is that this forum is by posts people make or the people who manage the website make too. There are different types of posts, but they are marked with a color which specifies what category the post belongs to. Some of the categories on that forum are Linux, CTF, Malware, Bug Bounty, Web Hacking and much more. The posts on this forum are sometimes questions people ask, announcements or someone making a guide on something for others to learn. The people who manage this forum are also cool so if you want to engage in a community with that format check out 0x00sec.
 
 **The website is the [following](https://0x00sec.org/)**
+
 #
 
 
-0x00sec</div>For now, that concludes my list of some nice online communities you can join. Of course, there are more out there but these are the ones that I have used the most and was recommended. I am open to suggestions and will be updating this blog post with the new online communities I find. As always, thank you for checking out the blog post and reading it (even if you read half of it)</div>
+</div>For now, that concludes my list of some nice online communities you can join. Of course, there are more out there but these are the ones that I have used the most and was recommended. I am open to suggestions and will be updating this blog post with the new online communities I find. As always, thank you for checking out the blog post and reading it (even if you read half of it)</div>
 
-0x00sec</div> **I hope you enjoyed my post and if you have any suggestions on what I should write next feel free to let me know on my Twitter ^.^**</div>
+</div> **I hope you enjoyed my post and if you have any suggestions on what I should write next feel free to let me know on my Twitter ^.^**</div>
