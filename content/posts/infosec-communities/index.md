@@ -22,9 +22,9 @@ As I keep learning of more or get recommended more, I will be adding them to the
 <br/>
 
 # **<div align="center">Slack Channels</div>**
+
 There are different types of Slack channels. Some are more general, and others are more focused on a certain topic. There are also ones who are focused on certain type of people for example there are Slacks that are focused on women, veterans, etc.
 
-<br/>
 
 I was doing some research online and found this [website](https://www.slackchannels.com/join-cyber-security-slack-channels/%29) which listed some of the top infosec Slacks at the moment which are the following:
 
@@ -52,7 +52,6 @@ I also wanted to share my favorite Slacks and those that I have been a part of f
 
 ##  WomenHackerz
 
-<br/>
 <br/>
 
 [WomenHackerz](https://www.womenhackerz.com/) is such a nice Slack because it’s not only about hacking. They have channels for lots of stuff like career advice, study groups, conferences, CTFs, food and even their own Book Club which is awesome in my opinion (since I am a bookaholic). This slack was created by [@ChloeMessdaghi](https://twitter.com/ChloeMessdaghi?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) and if you would like an invitation to the server feel free to send a DM to the [@WomenHackerz](https://twitter.com/womenhackerz?lang=en) twitter account.
