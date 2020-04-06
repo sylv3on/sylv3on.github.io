@@ -28,11 +28,15 @@ As I keep learning of more or get recommended more, I will be adding them to the
 <br/>
 <br/>
 <br/>
+
 #  Slack Channels
+
 <br/>
 <br/>
-<br/>
+
 There are different types of Slack channels. Some are more general, and others are more focused on a certain topic. There are also ones who are focused on certain type of people for example there are Slacks that are focused on women, veterans, etc.
+
+<br/>
 
 I was doing some research online and found this [website](https://www.slackchannels.com/join-cyber-security-slack-channels/%29) which listed some of the top infosec Slacks at the moment which are the following:
 
@@ -59,18 +63,16 @@ I also wanted to share my favorite Slacks and those that I have been a part of f
 <br/>
 <br/>
 <br/>
+
 #  **WomenHackerz**
-<br/>
+
 <br/>
 <br/>
 [WomenHackerz](https://www.womenhackerz.com/) is such a nice Slack because it’s not only about hacking. They have channels for lots of stuff like career advice, study groups, conferences, CTFs, food and even their own Book Club which is awesome in my opinion (since I am a bookaholic). This slack was created by [@ChloeMessdaghi](https://twitter.com/ChloeMessdaghi?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) and if you would like an invitation to the server feel free to send a DM to the [@WomenHackerz](https://twitter.com/womenhackerz?lang=en) twitter account.
 
 
 <br/>
-<br/>
-<br/>
 # **CTF Circle**
-<br/>
 <br/>
 <br/>
 CTF Circle is a distributed CTF team for non-binary folks and women of all skill levels to pwn and learn together but also has channels for different type of stuff besides CTFs. This Slack is awesome for finding people willing to participate in CTFs with you. CTF Circle was the first Slack I ever joined. I learned so much and the people there are such a delight. This Slack was created by [@IanColdwater](https://twitter.com/IanColdwater) and [@TinkerFairy](https://twitter.com/TinkerFairy_Net). If you would like to join that Slack be sure to check out their twitter page [@CTF_Circle](https://twitter.com/ctf_circle?lang=en) and send them a message for an invitation.
@@ -84,11 +86,9 @@ CTF Circle is a distributed CTF team for non-binary folks and women of all skill
 
 <br/>
 <br/>
-<br/>
 So, of all the platforms I use to be part of communities, I would say Discord is my favorite one. I like Discord because of the way the servers can be organized, the custom emojis one can use and it has a lot of cool features. There are so many Discord servers and I will list some of my favorite ones here. As time passes if there are any new ones I find, I will add them as well.
 
 
-<br/>
 <br/>
 <br/>
 
@@ -96,12 +96,11 @@ So, of all the platforms I use to be part of communities, I would say Discord is
 
 <br/>
 <br/>
-<br/>
+
 I am going to start with my favorite one which is [The Cyber Mentor](https://www.thecybermentor.com/) discord server. The Cyber Mentor server is well organized and has channels for pretty much almost every infosec subject. Besides that, there are channels related to the tutorials he gives on his YouTube channel, sometimes Twitch streams. When I first started getting into infosec and searched for a YouTube channel related to that stuff, the first channel I found was thecybermentor and ever since then he has been one of my favorite infosec youtubers. He is such a great teacher and offers a variety of tutorials on his YouTube channel. Besides the channels related to the courses he offers and the infosec channels there are channels for socializing such as a meme channel, gaming channel and even a pet picture channel which is cute. There is also a section which is for resources such as career advice, resume advice, job postings and several other stuff which are super helpful. Make sure to follow [@thecybermentor](https://twitter.com/thecybermentor) on Twitter so you can see every update related to his YouTube channel or his Twitch streams.
 
 **The link to join that discord server is the** [**following**](https://discordapp.com/invite/REfpPJB)
 
-<br/>
 <br/>
 <br/>
 
@@ -109,7 +108,7 @@ I am going to start with my favorite one which is [The Cyber Mentor](https://www
 
 <br/>
 <br/>
-<br/>
+
 The other discord server I want to highlight is the [DeadPixelSec](https://deadpixelsec.com/) server. On their website, the whoweare section states that the community was developed around the server [The Blind Hacker](https://twitter.com/TheBlindHacker?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) had and they created what is now DeadPixelSec. It began as a CTF team on discord that has grown into a full collaborative community good for sharing experiences, knowledge, and resources to help everyone learn and be the best they can be. This discord recently just started growing and it has such a nice community. The people there from the experience I’ve had are nice and helpful. This server is not only good to start getting to know the community more but also is nice for those who are starting and need help or want advice. They have a nice section called “Growth” in which they have channels for questions related to certain topics like certifications, jobs, red teaming and blue teaming. Besides those areas, there are a lot of voice channels in which you can socialize and talk to other people. There is also the general chat which is a little bit of everything. Also be sure to stop by the #[DianaIniciative](https://www.dianainitiative.org/) channel and check out the streams they are doing and the fundraisers. It’s a nice way to support them and the amazing things they are doing. The twitter account for that community is [@deadpixelsec](https://twitter.com/deadpixelsec) on Twitter
 
 
@@ -124,15 +123,14 @@ The other discord server I want to highlight is the [DeadPixelSec](https://deadp
 
 <br/>
 <br/>
-<br/>
+
 [Gatebreachers](https://gatebreachers.org/) is a non-profit organization focused on placing qualified women and underrepresented genders into cybersecurity roles. They foster gender diversity, equity, and inclusion in the cybersecurity industry through networking, mentoring, professional development, and community outreach. A discord was made for that organization to form a community. The server contains a career guidance channel that is used for people that are looking for career guidance, resources that include books, videos, or websites for people studying or learning more info about a subject, the also have the resume advice channel which is for people looking to update their resumes, the mentors channel is for people looking for mentors and the jobs channel is a feed with job openings. It’s still a small and new server but it has nice channels that you can take advantage of. GateBreachers was created by @akolsuoicauqo. They also have a twitter account [@gatebreachers](https://twitter.com/gatebreachers) and a nice website(https://gatebreachers.org/) if you want to learn more about the org.
 
 **The link to join the server is the [following](https://discord.gg/qXNVX4P)**
 
+<br/>
+<br/>
 
-<br/>
-<br/>
-<br/>
 
 ## InfosecPrep
 
@@ -146,13 +144,12 @@ Another discord server I was recommended when I asked people for their favorite 
 
 <br/>
 <br/>
-<br/>
 
 ## HackerSpoit
 
 <br/>
 <br/>
-<br/>
+
 [HackerSploit](https://hackersploit.org/index.php) is a website and YouTube channel that its goal is to educate anyone interested in Linux and Ethical Hacking. At first, I didn’t know about this website or YouTube channel, but someone recommended it to me and later I found out they had a discord server. This discord server is also like others mentioned here. It contains several sections like Penetration Testing, Programming and Resources. Besides those sections there is the general channel and other channels related to different the topics like Linux, networking, and an off-topic channel which you can talk about pretty much anything. What I really liked about this server is that it also has a radio channel and I always love those. Sometimes just being on that channel listening to music with someone can be calming or even talk and listen to music at the same time is nice.
 
 **The link to join the server is the [following](https://discordapp.com/invite/j3dH7tK)**
@@ -160,11 +157,9 @@ Another discord server I was recommended when I asked people for their favorite 
 
 <br/>
 <br/>
-<br/>
 
 ## InfosecJobs
 
-<br/>
 <br/>
 <br/>
 
@@ -172,11 +167,6 @@ The InfosecJobs server was created to help people connect to their next job oppo
 
 **The link to join this server is the [following](http://chat.infosecjobs.xyz)** 
 
-
-
-
-
-<br/>
 <br/>
 <br/>
 
@@ -197,7 +187,7 @@ The InfosecJobs server was created to help people connect to their next job oppo
 
 <br/>
 <br/>
-<br/>
+
 [HackerOne](https://www.hackerone.com/) is a bug bounty platform that connects businesses with penetration testers and cybersecurity researchers. They also have on their website a collection of videos, resources, and hands-on activities that will teach you everything you need to operate as a bug bounty hunter. They have a discord which has a nice community and the mods there are cool people as well. The server contains channels for the CTF exercises they have on their website and each level. That is useful because as you do the practice CTF exercises you can go there and discuss them with other people.  Besides those channels, they have general channels, one for hackthebox, a music channel and channels related to bug bounty stuff. If you want to join a bug bounty community or would like to know more about that side of infosec this server is the perfect one for that.
 
 **The link to join this server is the [following](https://discord.gg/GffEC6c)**
@@ -212,7 +202,7 @@ One important thing I want to say is that if you decided to join any of those di
 # <div align="center"> Subreddits</div>
 <br/>
 <br/>
-<br/>
+
 
 Reddit is a network of communities (which are called subreddits) based on people's interests. When it comes to subreddits there are a few infosec subreddits that people have recommended me, so I wanted to list them here.
 
@@ -251,9 +241,10 @@ While I was doing my research, I also found a [post](https://azidsecurity.blogsp
 
 [/r/Defcon](https://www.reddit.com/r/Defcon?utm_source=reddit&utm_medium=usertext&utm_name=AskNetsec&utm_content=t1_cp54be2)
 
-#
+
 
 Those are the subreddits that I have found for now, if there is any subreddit that I missed and you consider it to be a good one you can also recommend it to me so I can add it to this list
+
 <br/>
 <br/>
 <br/>
@@ -268,11 +259,9 @@ When it comes to forums, I don’t know much forums about infosec. I know there 
 
 <br/>
 <br/>
-<br/>
 
 ## NetSec Focus
 
-<br/>
 <br/>
 <br/>
 
@@ -281,11 +270,9 @@ Like it says in the webpage, the Net Sec Focus community was created for Cyberse
 The website is the [following](https://mm.netsecfocus.com/join/)
 <br/>
 <br/>
-<br/>
 
 ## 0x00sec
 
-<br/>
 <br/>
 <br/>
 
