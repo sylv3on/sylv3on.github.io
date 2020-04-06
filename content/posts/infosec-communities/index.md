@@ -6,7 +6,7 @@ description: My recommendation of some online infosec communities you can join
 tags: ["guide", "commmunities", "infosec"]
 ---
 
-#  Infosec Online Communities
+#  **Infosec Online Communities**
 
 
 
@@ -23,15 +23,11 @@ I will be listing them by categories. Slack Channels, Discord Servers, Subreddit
 
 As I keep learning of more or get recommended more, I will be adding them to the list.
 
-
-
-<br/>
 <br/>
 <br/>
 
 #  Slack Channels
 
-<br/>
 <br/>
 
 There are different types of Slack channels. Some are more general, and others are more focused on a certain topic. There are also ones who are focused on certain type of people for example there are Slacks that are focused on women, veterans, etc.
@@ -59,19 +55,19 @@ While I haven’t been part of those Slack communities (only the OWASP one). The
 
 I also wanted to share my favorite Slacks and those that I have been a part of for a long time.
 
-
-<br/>
 <br/>
 <br/>
 
-#  **WomenHackerz**
+#  WomenHackerz
 
 <br/>
 <br/>
+
 [WomenHackerz](https://www.womenhackerz.com/) is such a nice Slack because it’s not only about hacking. They have channels for lots of stuff like career advice, study groups, conferences, CTFs, food and even their own Book Club which is awesome in my opinion (since I am a bookaholic). This slack was created by [@ChloeMessdaghi](https://twitter.com/ChloeMessdaghi?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) and if you would like an invitation to the server feel free to send a DM to the [@WomenHackerz](https://twitter.com/womenhackerz?lang=en) twitter account.
 
 
 <br/>
+
 # **CTF Circle**
 <br/>
 <br/>
@@ -117,7 +113,6 @@ The other discord server I want to highlight is the [DeadPixelSec](https://deadp
  
 <br/>
 <br/>
-<br/>
 
 ## GateBreachers
 
@@ -136,13 +131,12 @@ The other discord server I want to highlight is the [DeadPixelSec](https://deadp
 
 <br/>
 <br/>
-<br/>
+
 Another discord server I was recommended when I asked people for their favorite infosec servers, was the InfosecPrep server. This server is nice because it was made with the purpose of people getting together to study for certain stuff like OSW, OSWE and some general infosec subjects. There are separate channels various topics — like general updates, bug bounty, capture the flag, hardware hacking, reverse engineering, social engineering and job opportunities. For example: There is an OSWP course section and that section contains channels like a general chat, practice exercise channel, etc. I haven’t been active there or been on it, but it seems to have a nice format.
 
 **The link to join the server is the [following](https://discordapp.com/invite/mEtEFhp)**
 
 
-<br/>
 <br/>
 
 ## HackerSpoit
@@ -174,12 +168,10 @@ The InfosecJobs server was created to help people connect to their next job oppo
 
 <br/>
 <br/>
-<br/>
 
 [The Many Hats Club](https://themanyhats.club/) is an information security focused group of individuals from all walks of life. They created a discord serve that has been available for some time and it’s the favorite infosec discord server of a lot of people inside the industry. The best thing about this discord server is that it has so many channels. It has channels for pretty much everything. Channels for every infosec subject you can imagine, it has some social channels in which you can talk to others there about different subjects, voice channels if you want to talk to people by voice. They are also doing some streams that you can check out. That community is also well known to be one of the best in CTF competitions so if you want to be around people that know a lot and can help you enforce your skills that is the perfect server for you to join. Their twitter account is [@TheManyHatsClub](https://twitter.com/themanyhatsclub)
 
 **The link to join this server is the** [**following**](https://discord.gg/infosec)
-<br/>
 <br/>
 <br/>
 
@@ -199,10 +191,10 @@ One important thing I want to say is that if you decided to join any of those di
 <br/>
 <br/>
 
-# <div align="center"> Subreddits</div>
-<br/>
-<br/>
+# **Subreddits**
 
+<br/>
+<br/>
 
 Reddit is a network of communities (which are called subreddits) based on people's interests. When it comes to subreddits there are a few infosec subreddits that people have recommended me, so I wanted to list them here.
 
@@ -247,11 +239,10 @@ Those are the subreddits that I have found for now, if there is any subreddit th
 
 <br/>
 <br/>
-<br/>
 
-# Forums
 
-<br/>
+# **Forums**
+
 <br/>
 <br/>
 
@@ -278,9 +269,12 @@ The website is the [following](https://mm.netsecfocus.com/join/)
 
 This forum I would say is almost the same as the last one I mentioned when it comes to the content and is one of my favorites too. The difference of this forum is that this forum is by posts people make or the people who manage the website make too. There are different types of posts, but they are marked with a color which specifies what category the post belongs to. Some of the categories on that forum are Linux, CTF, Malware, Bug Bounty, Web Hacking and much more. The posts on this forum are sometimes questions people ask, announcements or someone making a guide on something for others to learn. The people who manage this forum are also cool so if you want to engage in a community with that format check out 0x00sec.
 
+
 **The website is the [following](https://0x00sec.org/)**
 
 
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -288,3 +282,7 @@ This forum I would say is almost the same as the last one I mentioned when it co
 For now, that concludes my list of some nice online communities you can join. Of course, there are more out there but these are the ones that I have used the most and was recommended. I am open to suggestions and will be updating this blog post with the new online communities I find. As always, thank you for checking out the blog post and reading it (even if you read half of it)
 
 I hope you enjoyed my post and if you have any suggestions on what I should write next feel free to let me know on my Twitter ^.^
+
+<br/>
+<br/>
+<br/>
