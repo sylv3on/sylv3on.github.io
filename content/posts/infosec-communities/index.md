@@ -10,7 +10,7 @@ I will be listing them by categories. Slack Channels, Discord Servers, Subreddit
 
 As I keep learning of more or get recommended more, I will be adding them to the list.
 
-# Slack Channels
+# <div align="center"> Slack Channels</div>
 
 There are different types of Slack channels. Some are more general, and others are more focused on a certain topic. There are also ones who are focused on certain type of people for example there are Slacks that are focused on women, veterans, etc.
 
@@ -35,11 +35,11 @@ While I haven’t been part of those Slack communities (only the OWASP one). The
 
 I also wanted to share my favorite Slacks and those that I have been a part of for a long time.
 
-## **WomenHackerz**
+## <div align="center"> **WomenHackerz**</div>
 
 [WomenHackerz](https://www.womenhackerz.com/) is such a nice Slack because it’s not only about hacking. They have channels for lots of stuff like career advice, study groups, conferences, CTFs, food and even their own Book Club which is awesome in my opinion (since I am a bookaholic). This slack was created by [@ChloeMessdaghi](https://twitter.com/ChloeMessdaghi?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) and if you would like an invitation to the server feel free to send a DM to the [@WomenHackerz](https://twitter.com/womenhackerz?lang=en) twitter account.
 
-## CTF Circle
+## <div align="center"> CTF Circle</div>
 
 CTF Circle is a distributed CTF team for non-binary folks and women of all skill levels to pwn and learn together but also has channels for different type of stuff besides CTFs. This Slack is awesome for finding people willing to participate in CTFs with you. CTF Circle was the first Slack I ever joined. I learned so much and the people there are such a delight. This Slack was created by [@IanColdwater](https://twitter.com/IanColdwater) and [@TinkerFairy](https://twitter.com/TinkerFairy_Net). If you would like to join that Slack be sure to check out their twitter page [@CTF_Circle](https://twitter.com/ctf_circle?lang=en) and send them a message for an invitation.
 
