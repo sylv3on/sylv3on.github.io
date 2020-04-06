@@ -62,7 +62,6 @@ I also wanted to share my favorite Slacks and those that I have been a part of f
 
 ## CTF Circle
 <br/>
-<br/>
 
 CTF Circle is a distributed CTF team for non-binary folks and women of all skill levels to pwn and learn together but also has channels for different type of stuff besides CTFs. This Slack is awesome for finding people willing to participate in CTFs with you. CTF Circle was the first Slack I ever joined. I learned so much and the people there are such a delight. This Slack was created by [@IanColdwater](https://twitter.com/IanColdwater) and [@TinkerFairy](https://twitter.com/TinkerFairy_Net). If you would like to join that Slack be sure to check out their twitter page [@CTF_Circle](https://twitter.com/ctf_circle?lang=en) and send them a message for an invitation.
 
@@ -160,6 +159,7 @@ The InfosecJobs server was created to help people connect to their next job oppo
 [The Many Hats Club](https://themanyhats.club/) is an information security focused group of individuals from all walks of life. They created a discord serve that has been available for some time and it’s the favorite infosec discord server of a lot of people inside the industry. The best thing about this discord server is that it has so many channels. It has channels for pretty much everything. Channels for every infosec subject you can imagine, it has some social channels in which you can talk to others there about different subjects, voice channels if you want to talk to people by voice. They are also doing some streams that you can check out. That community is also well known to be one of the best in CTF competitions so if you want to be around people that know a lot and can help you enforce your skills that is the perfect server for you to join. Their twitter account is [@TheManyHatsClub](https://twitter.com/themanyhatsclub)
 
 **The link to join this server is the** [**following**](https://discord.gg/infosec)
+
 <br/>
 <br/>
 
@@ -253,7 +253,7 @@ The website is the [following](https://mm.netsecfocus.com/join/)
 This forum I would say is almost the same as the last one I mentioned when it comes to the content and is one of my favorites too. The difference of this forum is that this forum is by posts people make or the people who manage the website make too. There are different types of posts, but they are marked with a color which specifies what category the post belongs to. Some of the categories on that forum are Linux, CTF, Malware, Bug Bounty, Web Hacking and much more. The posts on this forum are sometimes questions people ask, announcements or someone making a guide on something for others to learn. The people who manage this forum are also cool so if you want to engage in a community with that format check out 0x00sec.
 
 
-**The website is the [following](https://0x00sec.org/)**
+The website is the [following](https://0x00sec.org/)
 
 
 <br/>
