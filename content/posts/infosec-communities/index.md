@@ -6,9 +6,9 @@ description: My recommendation of some online infosec communities you can join
 tags: ["guide", "commmunities", "infosec"]
 ---
 
-# <div align="center"> Infosec Online Communities</div>
+#  Infosec Online Communities
 
-#
+
 
 
 One of the things I love the most of the infosec field is the communities. The communities were the ones that helped me get where I am today. One learns so much by interacting with different types of people and their different backgrounds. You can interact with people in many ways. Not always one has the resources to travel to a conference or attend a meetup. In that case, the best way to interact with the community is online. There are a lot of different types of communities online.
@@ -28,7 +28,7 @@ As I keep learning of more or get recommended more, I will be adding them to the
 <br/>
 <br/>
 <br/>
-# <div align="center"> Slack Channels</div>
+#  Slack Channels
 <br/>
 <br/>
 <br/>
@@ -59,7 +59,7 @@ I also wanted to share my favorite Slacks and those that I have been a part of f
 <br/>
 <br/>
 <br/>
-## <div align="center"> **WomenHackerz**</div>
+#  **WomenHackerz**
 <br/>
 <br/>
 <br/>
@@ -69,7 +69,7 @@ I also wanted to share my favorite Slacks and those that I have been a part of f
 <br/>
 <br/>
 <br/>
-## <div align="center"> CTF Circle</div>
+#  **CTF Circle**
 <br/>
 <br/>
 <br/>
@@ -79,7 +79,7 @@ CTF Circle is a distributed CTF team for non-binary folks and women of all skill
 <br/>
 <br/>
 <br/>
-# <div align="center"> Discord Servers</div>
+# Discord Servers
 <br/>
 <br/>
 <br/>
@@ -89,7 +89,7 @@ So, of all the platforms I use to be part of communities, I would say Discord is
 <br/>
 <br/>
 <br/>
-## <div align="center">The Cyber Mentor Server</div>
+## The Cyber Mentor Server
 <br/>
 <br/>
 <br/>
@@ -101,7 +101,7 @@ I am going to start with my favorite one which is [The Cyber Mentor](https://www
 <br/>
 <br/>
 <br/>
-## <div align="center"> DeadPixelSec</div>
+## DeadPixelSec
 <br/>
 <br/>
 <br/>
@@ -116,7 +116,7 @@ The other discord server I want to highlight is the [DeadPixelSec](https://deadp
 <br/>
 <br/>
 <br/>
-## <div align="center"> GateBreachers</div>
+## GateBreachers
 <br/>
 <br/>
 <br/>
@@ -128,7 +128,7 @@ The other discord server I want to highlight is the [DeadPixelSec](https://deadp
 <br/>
 <br/>
 <br/>
-## <div align="center"> InfosecPrep</div>
+## InfosecPrep
 <br/>
 <br/>
 <br/>
@@ -152,7 +152,7 @@ Another discord server I was recommended when I asked people for their favorite 
 <br/>
 <br/>
 <br/>
-## <div align="center"> InfosecJobs</div>
+## InfosecJobs
 <br/>
 <br/>
 <br/>
@@ -167,7 +167,7 @@ The InfosecJobs server was created to help people connect to their next job oppo
 <br/>
 <br/>
 <br/>
-## <div align="center"> The Many Hats Club</div>
+## The Many Hats Club
 <br/>
 <br/>
 <br/>
@@ -177,7 +177,7 @@ The InfosecJobs server was created to help people connect to their next job oppo
 <br/>
 <br/>
 <br/>
-## <div align="center"> HackerOne</div>
+## HackerOne</div>
 <br/>
 <br/>
 <br/>
@@ -232,11 +232,13 @@ While I was doing my research, I also found a [post](https://azidsecurity.blogsp
 
 [/r/Defcon](https://www.reddit.com/r/Defcon?utm_source=reddit&utm_medium=usertext&utm_name=AskNetsec&utm_content=t1_cp54be2)
 
+#
+
 Those are the subreddits that I have found for now, if there is any subreddit that I missed and you consider it to be a good one you can also recommend it to me so I can add it to this list
 <br/>
 <br/>
 <br/>
-# <div align="center"> Forums</div>
+# Forums
 <br/>
 <br/>
 <br/>
@@ -244,7 +246,7 @@ When it comes to forums, I don’t know much forums about infosec. I know there 
 <br/>
 <br/>
 <br/>
-## <div align="center"> NetSec Focus</div>
+## NetSec Focus
 <br/>
 <br/>
 <br/>
@@ -254,7 +256,7 @@ The website is the [following](https://mm.netsecfocus.com/join/)
 <br/>
 <br/>
 <br/>
-## <div align="center"> 0x00sec</div>
+## 0x00sec
 <br/>
 <br/>
 <br/>
@@ -269,4 +271,4 @@ This forum I would say is almost the same as the last one I mentioned when it co
 <br/>
 For now, that concludes my list of some nice online communities you can join. Of course, there are more out there but these are the ones that I have used the most and was recommended. I am open to suggestions and will be updating this blog post with the new online communities I find. As always, thank you for checking out the blog post and reading it (even if you read half of it)
 
-I hope you enjoyed my post and if you have any suggestions on what I should write next feel free to let me know on my Twitter:sparkling_heart:
+I hope you enjoyed my post and if you have any suggestions on what I should write next feel free to let me know on my Twitter ^.^
