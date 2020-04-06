@@ -1,8 +1,8 @@
 ---
-title: Awesome online Infosec Communities you should join 
+title: Awesome Online Infosec Communities you should join 
 cover: ./image.jpg
-date: 2020-06-04
-description: My recommendation of some online infosec communities you can joincomunitiee
+date: 2020-04-06
+description: My recommendation of some online infosec communities you should join
 tags: ["guide", "commmunities", "infosec"]
 ---
 
