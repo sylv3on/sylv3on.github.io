@@ -75,7 +75,7 @@ Another discord server I was recommended when I asked people for their favorite 
 
 **The link to join the server is the [following](https://discordapp.com/invite/mEtEFhp)**
 
-https://discordapp.com/invite/mEtEFhp
+
 
 ## <div align="center"> HackerSpoit</div>
 
@@ -132,9 +132,8 @@ There are also some subreddits for the security certifications
 
 [r/cissp](http://www.reddit.com/r/cissp) (Certified Information Systems Security Professional)
 
-While I was doing my research, I also found a post about the best subreddits for cybersecurity and hacking and it contains even more subreddits that I didn’t know existed.
+While I was doing my research, I also found a [post](https://azidsecurity.blogspot.com/2019/01/best-reddit-subreddits-for.html) about the best subreddits for cybersecurity and hacking and it contains even more subreddits that I didn’t know existed.
 
-[https://azidsecurity.blogspot.com/2019/01/best-reddit-subreddits-for.html](https://azidsecurity.blogspot.com/2019/01/best-reddit-subreddits-for.html)
 
 [/r/hacking](https://www.reddit.com/r/hacking?utm_source=reddit&utm_medium=usertext&utm_name=AskNetsec&utm_content=t1_cp4xgix)
 
