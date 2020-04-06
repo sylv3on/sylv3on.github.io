@@ -75,6 +75,7 @@ CTF Circle is a distributed CTF team for non-binary folks and women of all skill
 
 <br/>
 <br/>
+
 So, of all the platforms I use to be part of communities, I would say Discord is my favorite one. I like Discord because of the way the servers can be organized, the custom emojis one can use and it has a lot of cool features. There are so many Discord servers and I will list some of my favorite ones here. As time passes if there are any new ones I find, I will add them as well.
 
 <br/>
