@@ -1,3 +1,11 @@
+---
+title: Infosec Communities 
+cover: ./image.jpg
+date: 2020-06-04
+description: My recommendation of some online infosec communities you can join
+tags: ["guide", "commmunities", "infosec"]
+---
+
 # <div align="center"> Infosec Online Communities</div>
 
 One of the things I love the most of the infosec field is the communities. The communities were the ones that helped me get where I am today. One learns so much by interacting with different types of people and their different backgrounds. You can interact with people in many ways. Not always one has the resources to travel to a conference or attend a meetup. In that case, the best way to interact with the community is online. There are a lot of different types of communities online.
