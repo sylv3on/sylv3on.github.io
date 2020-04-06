@@ -173,4 +173,4 @@ This forum I would say is almost the same as the last one I mentioned when it co
 
 0x00sec</div>For now, that concludes my list of some nice online communities you can join. Of course, there are more out there but these are the ones that I have used the most and was recommended. I am open to suggestions and will be updating this blog post with the new online communities I find. As always, thank you for checking out the blog post and reading it (even if you read half of it)</div>
 
-**I hope you enjoyed my post and if you have any suggestions on what I should write next feel free to let me know on my Twitter**
+0x00sec</div> **I hope you enjoyed my post and if you have any suggestions on what I should write next feel free to let me know on my Twitter ^.^**</div>
