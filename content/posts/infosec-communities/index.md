@@ -10,16 +10,14 @@ tags: ["guide", "commmunities", "infosec"]
 
 #
 <br >
-\
+
 
 
 One of the things I love the most of the infosec field is the communities. The communities were the ones that helped me get where I am today. One learns so much by interacting with different types of people and their different backgrounds. You can interact with people in many ways. Not always one has the resources to travel to a conference or attend a meetup. In that case, the best way to interact with the community is online. There are a lot of different types of communities online.
 
 <br >
-\
 
-<br >
-\
+
 
 The first place I started interacting with people in the infosec field was on Twitter. I created an account and just started following people I found interesting or had the same interests as me. As time passed, I started asking people about the field and interacting with them. As of now, I have friends all over the world and have made some good connections.
 
@@ -31,17 +29,15 @@ As I keep learning of more or get recommended more, I will be adding them to the
 
 #
 <br >
-\
 
 
-<br >
-\
+
 
 # <div align="center"> Slack Channels</div>
 <br >
-\
+
 <br >
-\
+
 
 There are different types of Slack channels. Some are more general, and others are more focused on a certain topic. There are also ones who are focused on certain type of people for example there are Slacks that are focused on women, veterans, etc.
 
