@@ -61,6 +61,7 @@ I also wanted to share my favorite Slacks and those that I have been a part of f
 <br/>
 
 ## CTF Circle
+
 <br/>
 
 CTF Circle is a distributed CTF team for non-binary folks and women of all skill levels to pwn and learn together but also has channels for different type of stuff besides CTFs. This Slack is awesome for finding people willing to participate in CTFs with you. CTF Circle was the first Slack I ever joined. I learned so much and the people there are such a delight. This Slack was created by [@IanColdwater](https://twitter.com/IanColdwater) and [@TinkerFairy](https://twitter.com/TinkerFairy_Net). If you would like to join that Slack be sure to check out their twitter page [@CTF_Circle](https://twitter.com/ctf_circle?lang=en) and send them a message for an invitation.
@@ -72,7 +73,6 @@ CTF Circle is a distributed CTF team for non-binary folks and women of all skill
 
 # Discord Servers
 
-<br/>
 <br/>
 
 So, of all the platforms I use to be part of communities, I would say Discord is my favorite one. I like Discord because of the way the servers can be organized, the custom emojis one can use and it has a lot of cool features. There are so many Discord servers and I will list some of my favorite ones here. As time passes if there are any new ones I find, I will add them as well.
