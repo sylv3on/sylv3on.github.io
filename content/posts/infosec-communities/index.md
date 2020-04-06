@@ -61,7 +61,7 @@ The other discord server I want to highlight is the [DeadPixelSec](https://deadp
 
 
 
-## GateBreachers
+## <div align="center"> GateBreachers</div>
 
 [Gatebreachers](https://gatebreachers.org/) is a non-profit organization focused on placing qualified women and underrepresented genders into cybersecurity roles. They foster gender diversity, equity, and inclusion in the cybersecurity industry through networking, mentoring, professional development, and community outreach. A discord was made for that organization to form a community. The server contains a career guidance channel that is used for people that are looking for career guidance, resources that include books, videos, or websites for people studying or learning more info about a subject, the also have the resume advice channel which is for people looking to update their resumes, the mentors channel is for people looking for mentors and the jobs channel is a feed with job openings. It’s still a small and new server but it has nice channels that you can take advantage of. GateBreachers was created by @akolsuoicauqo. They also have a twitter account [@gatebreachers](https://twitter.com/gatebreachers) and a nice website(https://gatebreachers.org/) if you want to learn more about the org.
 
@@ -69,7 +69,7 @@ The other discord server I want to highlight is the [DeadPixelSec](https://deadp
 
 
 
-## InfosecPrep
+## <div align="center"> InfosecPrep</div>
 
 Another discord server I was recommended when I asked people for their favorite infosec servers, was the InfosecPrep server. This server is nice because it was made with the purpose of people getting together to study for certain stuff like OSW, OSWE and some general infosec subjects. There are separate channels various topics — like general updates, bug bounty, capture the flag, hardware hacking, reverse engineering, social engineering and job opportunities. For example: There is an OSWP course section and that section contains channels like a general chat, practice exercise channel, etc. I haven’t been active there or been on it, but it seems to have a nice format.
 
@@ -77,7 +77,7 @@ Another discord server I was recommended when I asked people for their favorite 
 
 https://discordapp.com/invite/mEtEFhp
 
-## HackerSpoit
+## <div align="center"> HackerSpoit</div>
 
 [HackerSploit](https://hackersploit.org/index.php) is a website and YouTube channel that its goal is to educate anyone interested in Linux and Ethical Hacking. At first, I didn’t know about this website or YouTube channel, but someone recommended it to me and later I found out they had a discord server. This discord server is also like others mentioned here. It contains several sections like Penetration Testing, Programming and Resources. Besides those sections there is the general channel and other channels related to different the topics like Linux, networking, and an off-topic channel which you can talk about pretty much anything. What I really liked about this server is that it also has a radio channel and I always love those. Sometimes just being on that channel listening to music with someone can be calming or even talk and listen to music at the same time is nice.
 
@@ -85,7 +85,7 @@ https://discordapp.com/invite/mEtEFhp
 
 
 
-## InfosecJobs
+## <div align="center"> InfosecJobs</div>
 
 The InfosecJobs server was created to help people connect to their next job opportunity. This server is great if you are looking for jobs, need help for your next interview or tips for creating a nice resume. Besides that, there is the chat channel which is a general talk to about anything and there is also a music channel which is nice. This server is managed by: [@find_evil](https://twitter.com/find_evil) and [@0xbanana](https://twitter.com/0xbanana). They also have a twitter page that you can follow if you’d like @hackingjobs.
 
@@ -96,13 +96,13 @@ The InfosecJobs server was created to help people connect to their next job oppo
 
 
 
-## The Many Hats Club
+## <div align="center"> The Many Hats Club</div>
 
 [The Many Hats Club](https://themanyhats.club/) is an information security focused group of individuals from all walks of life. They created a discord serve that has been available for some time and it’s the favorite infosec discord server of a lot of people inside the industry. The best thing about this discord server is that it has so many channels. It has channels for pretty much everything. Channels for every infosec subject you can imagine, it has some social channels in which you can talk to others there about different subjects, voice channels if you want to talk to people by voice. They are also doing some streams that you can check out. That community is also well known to be one of the best in CTF competitions so if you want to be around people that know a lot and can help you enforce your skills that is the perfect server for you to join. Their twitter account is [@TheManyHatsClub](https://twitter.com/themanyhatsclub)
 
 **The link to join this server is the** [**following**](https://discord.gg/infosec)
 
-## HackerOne
+## <div align="center"> HackerOne</div>
 
 [HackerOne](https://www.hackerone.com/) is a bug bounty platform that connects businesses with penetration testers and cybersecurity researchers. They also have on their website a collection of videos, resources, and hands-on activities that will teach you everything you need to operate as a bug bounty hunter. They have a discord which has a nice community and the mods there are cool people as well. The server contains channels for the CTF exercises they have on their website and each level. That is useful because as you do the practice CTF exercises you can go there and discuss them with other people.  Besides those channels, they have general channels, one for hackthebox, a music channel and channels related to bug bounty stuff. If you want to join a bug bounty community or would like to know more about that side of infosec this server is the perfect one for that.
 
@@ -112,7 +112,7 @@ I know there are a lot more discord servers but those are the ones I know the mo
 
 One important thing I want to say is that if you decided to join any of those discord servers please read the rules and follow them.
 
-# Subreddits
+# <div align="center"> Subreddits</div>
 
 Reddit is a network of communities (which are called subreddits) based on people's interests. When it comes to subreddits there are a few infosec subreddits that people have recommended me, so I wanted to list them here.
 
@@ -154,17 +154,17 @@ While I was doing my research, I also found a post about the best subreddits for
 
 Those are the subreddits that I have found for now, if there is any subreddit that I missed and you consider it to be a good one you can also recommend it to me so I can add it to this list
 
-# Forums
+# <div align="center"> Forums</div>
 
 When it comes to forums, I don’t know much forums about infosec. I know there are a lot out there, but I will only recommend those that I have been a part of and are good in my opinion.
 
-## NetSec Focus
+## <div align="center"> NetSec Focus</div>
 
 Like it says in the webpage, the Net Sec Focus community was created for Cybersecurity / IT professionals to share knowledge and experiences. I like this forum a lot because it has so many cool channels. They have channels for infosec stuff like Red Teaming, RE & Exploit Dev, HTB and some others. Besides having those channels which are focused on those topics they have channels for events, one for jobs, education and programming. I feel like this forum has almost everything you would like in an infosec server. Like always remember to follow the rules stated before you enter the forum.
 
 The website is the [following](https://mm.netsecfocus.com/join/)
 
-## 0x00sec
+## <div align="center"> 0x00sec</div>
 
 This forum I would say is almost the same as the last one I mentioned when it comes to the content and is one of my favorites too. The difference of this forum is that this forum is by posts people make or the people who manage the website make too. There are different types of posts, but they are marked with a color which specifies what category the post belongs to. Some of the categories on that forum are Linux, CTF, Malware, Bug Bounty, Web Hacking and much more. The posts on this forum are sometimes questions people ask, announcements or someone making a guide on something for others to learn. The people who manage this forum are also cool so if you want to engage in a community with that format check out 0x00sec.
 
