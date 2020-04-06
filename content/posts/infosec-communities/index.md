@@ -252,7 +252,7 @@ Like it says in the webpage, the Net Sec Focus community was created for Cyberse
 This forum I would say is almost the same as the last one I mentioned when it comes to the content and is one of my favorites too. The difference of this forum is that this forum is by posts people make or the people who manage the website make too. There are different types of posts, but they are marked with a color which specifies what category the post belongs to. Some of the categories on that forum are Linux, CTF, Malware, Bug Bounty, Web Hacking and much more. The posts on this forum are sometimes questions people ask, announcements or someone making a guide on something for others to learn. The people who manage this forum are also cool so if you want to engage in a community with that format check out 0x00sec.
 
 
-**The website is the** [**following**](https://0x00sec.org/)
+**The website is the** [**following](https://0x00sec.org/)
 
 
 <br/>
