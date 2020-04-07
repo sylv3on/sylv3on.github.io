@@ -241,7 +241,7 @@ When it comes to forums, I don’t know much forums about infosec. I know there 
 
 Like it says in the webpage, the Net Sec Focus community was created for Cybersecurity / IT professionals to share knowledge and experiences. I like this forum a lot because it has so many cool channels. They have channels for infosec stuff like Red Teaming, RE & Exploit Dev, HTB and some others. Besides having those channels which are focused on those topics they have channels for events, one for jobs, education and programming. I feel like this forum has almost everything you would like in an infosec server. Like always remember to follow the rules stated before you enter the forum.
 
-**The website is the** [**following**](https://mm.netsecfocus.com/join/)** 
+**The website is the** [**following**](https://mm.netsecfocus.com/join/)
 <br/>
 <br/>
 
