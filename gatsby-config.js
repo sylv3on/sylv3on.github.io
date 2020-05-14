@@ -17,14 +17,7 @@ module.exports = {
         icon: `twitter`,
         url: `https://twitter.com/sylv3on_`
       },
-      {
-        icon: `paypal`,
-        url: `https://www.paypal.com/paypalme2/aruiz242`
-         },
-         {
-        icon: `github`,
-        url: ``
-      },
+   
       {
         icon: `linkedin-in`,
         url: `https://www.linkedin.com/in/ashley-ruiz-692856181/`
