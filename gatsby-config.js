@@ -24,7 +24,7 @@ module.exports = {
       },
       
       {
-      icon: `fas fa-donate`,
+      icon: `donate`,
         url: `https://ko-fi.com/sylv3on_`
       }
       
