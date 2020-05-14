@@ -21,7 +21,12 @@ module.exports = {
       {
         icon: `linkedin-in`,
         url: `https://www.linkedin.com/in/ashley-ruiz-692856181/`
+      },
+      
+      icon: `Ko-fi`,
+        url: `https://ko-fi.com/sylv3on_`
       }
+      
     ]
   },
   plugins: [
