@@ -5,7 +5,7 @@
   "description": "gatsby-starter-chronoblog",
   "keywords": [],
   "license": "MIT",
-  "author": "Marc Maceira <mmaceira.zayas@gmail.com>",
+  "author": "NN",
   "scripts": {
     "build": "gatsby build",
     "clean": "gatsby clean",
