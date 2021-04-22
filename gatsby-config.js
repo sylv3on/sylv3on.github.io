@@ -14,18 +14,18 @@ module.exports = {
     twitterCreator: 'Ashley Ruiz',
     social: [
       {
-        icon: `twitter`,
-        url: `https://twitter.com/sylv3on_`
+        icon: ``,
+        url: ``
       },
    
       {
-        icon: `linkedin-in`,
-        url: `https://www.linkedin.com/in/ashley-ruiz-692856181/`
+        icon: ``,
+        url: ``
       },
       
       {
-      icon: `donate`,
-        url: `https://ko-fi.com/sylv3on_`
+      icon: ``,
+        url: ``
       }
       
     ]
