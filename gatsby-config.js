@@ -1,17 +1,17 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: 'Ashley Ruiz | Portfolio',
+    siteTitle: 'sylv3on | Portfolio',
     siteDescription: 'InfoSec Blog',
     siteImage: '/banner.png', // main image of the site for metadata
     siteUrl: 'https://sylv3on.com/',
     pathPrefix: '/',
     siteLanguage: 'en',
     ogLanguage: `en_US`,
-    author: 'Ashley Ruiz',
+    author: 'Ash R',
     authorDescription: 'Computer Engineering student in InfoSec with an interest in Offensive Security',
     avatar: '/avatar.jpg',
     twitterSite: 'https://twitter.com/sylv3on_',
-    twitterCreator: 'Ashley Ruiz',
+    twitterCreator: 'Ash',
     social: [
       {
         icon: ``,
